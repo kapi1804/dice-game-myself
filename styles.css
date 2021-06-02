@@ -1,0 +1,98 @@
+body{
+  background-color: #EDC7B7;
+ text-align: center;
+
+}
+.container{
+ 
+ margin: auto auto 50px auto;
+ width: 70%;
+ text-align: center;
+ 
+}
+.dice{
+  display: inline-block;
+font-size: 2rem;
+
+position: relative;
+ bottom: 40px;
+color: #AC3B61;
+ font-family: 'Kalam', cursive;
+}
+h1{
+   font-family: 'Kalam', cursive;
+  font-size: 7rem;
+  color: #AC3B61;
+ 
+  margin: 20px;
+}
+.btn{
+
+  background: #E85A4F;
+
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+
+  -webkit-border-radius: 8;
+position:relative; 
+bottom:20px;
+margin-bottom:20px ;
+ 
+  -moz-border-radius: 8;
+
+  border-radius: 8px;
+
+  font-family: Arial;
+
+  color: #ffffff;
+
+  font-size: 20px;
+
+  padding: 10px 20px 10px 20px;
+
+  text-decoration: none;
+
+}
+
+.btn:hover{
+
+  background: #30e3cb;
+
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+
+  text-decoration: none;
+
+
+
+}
+img {
+  width: 80%;
+  
+
+}
+p{
+ 
+}
+footer{
+  position: relative;
+ top: 70px;
+
+font-size: 1.5rem;
+   color: #AC3B61;
+   font-family: 'Kalam', cursive;
+}
